@@ -41,7 +41,7 @@ print (d)
 
 #list is mutable.it  mean we can change values for items in list.
 a=[1,8,9,2,8,2,8,2]
-a[0]=7, i can also change this value at any time in list
+a[0]=7,  # i can also change this value at any time in list
 
 #+++++++++++++++++++++++++++ tuple data type   +++++++++++++++++++++++++++
 
