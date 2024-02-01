@@ -13,9 +13,9 @@ print(f"You entered an integer: {user_input_int}")  # f use is- to print the sti
 print(f"You entered a float: {user_input_float}")
 print(f"You entered a string: {user_input_string}")
  
-# #   int(input(...))  - to take an integer input, 
-# #   float(input(...))  - for a floating-point input, 
-# #   input(...) alone is used for a string input.
+#   int(input(...))  - to take an integer input, 
+#   float(input(...))  - for a floating-point input, 
+#   input(...) alone is used for a string input.
 
 # - Keep in mind that if the user provides input that cannot be converted to the specified data type, a ValueError will be raised.
 # - You might want to handle this using try-except blocks if necessary.
@@ -30,7 +30,7 @@ print(f"You entered a string: {user_input_string}")
 # ++++++++++++++++++++++++ if statement: +++++++++++++++++++++++++
  
     
-# # Example 1: Checking if a number is positive
+# Example 1: Checking if a number is positive
 num = 10
 if num > 0:
     print("The number is positive.")
@@ -46,7 +46,7 @@ else:
     
 # ++++++++++++++++++++++++ elif statement: ++++++++++++++++++++++++
   
-# # Example 3: Determining the grade based on a score
+# Example 3: Determining the grade based on a score
 score = 75
 if score >= 90:
     print("Grade A")
@@ -61,7 +61,7 @@ else:
     
 # ++++++++++++++++++++++++ Nested if statements: ++++++++++++++++++++++++
    
-# # Example 4: Nested if statements to determine eligibility for a loan
+# Example 4: Nested if statements to determine eligibility for a loan
 income = 50000
 credit_score = 700
 if income >= 60000:
