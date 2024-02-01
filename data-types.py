@@ -7,7 +7,7 @@
 #dictiionary {} ; {'a':'10'  , 'b': '20'}  if we want to use specific key at any time, then we use dictionary
 #set  {}      we use set-  when we want to avoid duplicate data 
 
-#--------------------------------#
+#--------------- -----------------#
 # a=10       # int
 # b=20.5     # float
 # c=a+b
