@@ -16,7 +16,7 @@ print (c)
 #--------------------------------#
 a= "ashok"
 b= "kumar"
-c= "g'akr"
+c= "g'akr"   
 d=a+b+c
 print (d)
 
@@ -79,7 +79,7 @@ difference_result = x - y
 product_result = x * y
 division_result = x / y
 
-print ( 'addition= ', sum_result , 'diff=', difference_result , 'product=', product_result , 'div=' , division_result )
+print ( f"'addition= ', sum_result , 'diff=', difference_result , 'product=', product_result , 'div=' , division_result ")
 
 #+++++++++++++++++++++++++++ list example  +++++++++++++++++++++++++++
 
